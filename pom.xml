@@ -16,7 +16,6 @@
         <module>framework-redis</module>
         <module>framework-utils</module>
         <module>framework-mq</module>
-        <module>framework-mq</module>
         <module>framework-exception</module>
     </modules>
 
